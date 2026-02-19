@@ -15,8 +15,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Moure",
-  description: "A modern web experience built with Next.js",
+  title: "Moure | AI-Powered False Alarm Detection",
+  description:
+    "Reduce false alarms by up to 90% with AI-powered detection. Cut operational costs and let your security team focus on real threats.",
 };
 
 export default function RootLayout({
